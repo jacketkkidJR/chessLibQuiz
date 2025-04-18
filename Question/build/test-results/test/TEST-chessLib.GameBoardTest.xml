@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chessLib.GameBoardTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-04-18T11:32:53" hostname="MacBook-Air-200.local" time="0.009">
+  <properties/>
+  <testcase name="TestAddPieceInvalidPosition()" classname="chessLib.GameBoardTest" time="0.002"/>
+  <testcase name="TestGetPieceInvalidPosition()" classname="chessLib.GameBoardTest" time="0.0"/>
+  <testcase name="TestAddPieceValidPosition()" classname="chessLib.GameBoardTest" time="0.001"/>
+  <testcase name="TestGetPieceValidPosition()" classname="chessLib.GameBoardTest" time="0.001"/>
+  <testcase name="TestMoveRandomPieceNoPieces()" classname="chessLib.GameBoardTest" time="0.001"/>
+  <testcase name="TestIsValidPositionEmpty()" classname="chessLib.GameBoardTest" time="0.0"/>
+  <testcase name="TestIsInvalidPositionEmpty()" classname="chessLib.GameBoardTest" time="0.0"/>
+  <testcase name="TestMoveRandomPieceOnce()" classname="chessLib.GameBoardTest" time="0.0"/>
+  <testcase name="TestAddPieceOccupiedPosition()" classname="chessLib.GameBoardTest" time="0.001"/>
+  <system-out><![CDATA[No pieces to move.
+Piece selected to move: Knight at position (3, 3). Successfully moved a piece to the position (4, 5).
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
